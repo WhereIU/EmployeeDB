@@ -125,6 +125,7 @@ const EmployeeDB = {
     }
 
     return false;
+    // cant be compared of employee1 === employee2 bcs of links compare
   },
 };
 
